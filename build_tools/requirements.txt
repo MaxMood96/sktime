@@ -10,3 +10,4 @@ scikit-posthocs
 statsmodels>=0.12.*
 tsfresh
 wheel
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
