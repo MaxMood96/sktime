@@ -11,3 +11,4 @@ seaborn
 sphinx==3.2.*
 sphinx_rtd_theme
 tsfresh
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
