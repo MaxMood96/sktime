@@ -10,3 +10,4 @@ scikit-posthocs
 statsmodels>=0.12.*
 tsfresh
 wheel
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
